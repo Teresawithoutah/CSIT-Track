@@ -1,0 +1,171 @@
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  font-size: 20px;
+
+}
+p{
+  font-size: 20px;
+}
+.title{
+font-size: 40px:
+}
+
+body{
+
+  background-color: #e0f1f9;
+}
+</style>
+</head>
+
+<body>
+<p>
+  Alexander Khvan
+<br>
+  Intro to Computer Concepts
+<br>
+  Professor Lisa
+<br>
+  April 25 2018
+</p>
+
+
+<p class= "title">
+ <b>  What is Bitcoin</b>
+</p>
+
+<p class= "intro1">
+
+        Bitcoin is known as a cryptocurrency, which means it is a virtual form of currency. That means you cannot obtain it physically by any means, and the value of it isn&#39;t backed by the government. Its disaffiliation with the government means that it is a decentralized currency. It was created in 2009 by an alias known as Satoshi Nakamoto. Its initial value was basically worthless. By 2010 it only reached a value of 39 cents. However by 2017, it started to blow up, and the peak value was worth around $19000. However Bitcoin is extremely volatile, this means that it can increase dramatically as well as decrease. Today, it is worth around $9000. Bitcoin can be obtained by linking a bank account and invest into an exchange such as Coinbase or Binance. It can also be <q>mined</q> through the use of powerful computers solving complex math problems, although it doesn&#39;t give a significant amount unless one has multiple computing processes which require a lot of money and power. Bitcoin can also be used to invest into alternative coins.
+</p>
+
+
+<center><img src="https://i.imgur.com/viy7SUF.jpg" width="675" height="500"/></center>
+<br>
+<br>
+<p class= "title">
+<b>  Alternative Coins</b>
+</p>
+
+<p class= "intro2">
+   Many people do not realize that Bitcoin is not the only existing cryptocurrency, there are actually hundreds out there. The most notable ones are known as Litecoin (the silver to Bitcoin) and Ethereum. To obtain alternative coins, one can link their bank account to Coinbase and then transfer their Bitcoin through a more diverse currency exchange such as Binance, and invest a variety of coins through Bitcoin. Alternative coins are just as or more volatile than bitcoin. Its prices react to the value of Bitcoin. What the use of alt coins? Some alt coins such as Litecoin actually process faster and can send a transaction much faster than bitcoin, for example bitcoin transactions can take 10 minutes to half an hour whereas Litecoin can send within a minute. Alternative coins are also used to help diversify a cryptocurrency portfolio.
+</p>
+
+<br>
+<br>
+
+
+<center><img src ="http://www.btcwarp.com/wp-content/uploads/2017/04/altcoins.jpg" width="600" height="500"/></center>
+<br>
+<br>
+<p class= "title">
+  <b>Blockchain Technology</b>
+</p>
+
+<p class= "intro">
+  Blockchain technology is what makes cryptocurrencies special. It completely gets rid of a third party administrator, allowing total privacy between transactions. Basically a way for untrusted parties to reach a consensus. Blockchain technology is a shared database of entries that are encrypted. It provides security for the digital currencies and is extremely efficient. Bank processes can take a week due to expenses, paperwork and bureaucracy, whereas blockchain technology takes merely a fraction of the time. One can think of it as a more secure, and encrypted shared Google document.
+
+ <br>
+ <br>
+
+ Click here (<a href="https://cdn-images-1.medium.com/max/1500/1*3hyWN8UhcrL7P0Opbu7IQg.jpeg" target="_blank">x</a>) to see a diagram of how blockchain technology works.
+</p>
+<br>
+<img src="https://blockgeeks.com/wp-content/uploads/2016/09/infographics0517-01-1.png"/>
+<br>
+<br>
+<p class= "title">
+  <b>Conclusion </b>
+</p>
+
+<p class="intro">
+Bitcoin and other cryptocurrencies&#39; potential could mean a lot for the future of money. It is a user friendly way to access and send money much more efficiently than the use of banks. In addition its decentralization allows more freedom and privacy because of the lack of third party administration. Transactions are known only from the person who sent it and the person who receives it. Finally the transactions fees are much cheaper than banks which can save money and allow people more freedom for activities such as traveling and investing as well.
+</p>
+
+<table>
+
+  <tr>
+    <td>Volatile Market &mdash; <q>what is bitcoin</q></td>
+    <td> <b>Google</b>
+      <br>
+        Keywords used: What is Bitcoin
+        <br>
+        <a href="http://money.cnn.com/infographic/technology/what-is-bitcoin/">http://money.cnn.com/infographic/technology/what-is-bitcoin/</a>
+<br>
+<br>
+        Yellin, Tal, et al. <q>What is Bitcoin?</q> <i>CNNMoney</i>, Cable News Network,<br>
+        money.cnn.com/infographic/technology/what-is-bitcoin/.
+        <br>
+        <br>
+        <b>Bing</b>
+        <br>
+        Keywords used: Why is Bitcoin volatile
+        <br>
+        <a href="https://www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/#66164e7139fb">https://www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/#66164e7139fb</a>
+        <br>
+        <br>
+        Adkisson, Jay. <q>Why Bitcoin Is So Volatile.</q> <i>Forbes</i>, Forbes Magazine, 10 Feb. 2018, www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/#66164e7139fb.
+
+      </td>
+  </tr>
+  <tr>
+    <td>Alternative Coins</td>
+    <td><b>Google</b>
+
+      <br>
+        Keywords used: What are alt coins
+        <br>
+        <a href="https://www.ccn.com/altcoin/" target="_blank">https://www.ccn.com/altcoin/</a>
+        <BR>
+          <BR>
+        Wilmoth, Josiah . <q>What is an Altcoin?</q> CCN, 16 Dec. 2017, <a href="www.ccn.com/altcoin/" target="_blank">www.ccn.com/altcoin/</a>.
+        <br>
+        <br>
+        <b>Bing</b>
+        <br>
+        Keywords used: What are alt coins
+        <br>
+        <a href="https://bitcoinira.com/articles/what-are-altcoins" target="_blank">https://bitcoinira.com/articles/what-are-altcoins</a>
+        <br>
+        <br>
+        Contributor, Blockchain. <q>What are Altcoins?</q> <i> Buy Bitcoin IRA - Invest in Bitcoin |Bitcoin IRA</i>, Buy Bitcoin IRA - Invest in Bitcoin | Bitcoin IRA, 11 Dec. 2017, bitcoinira.com/articles/what-are-altcoins.</td>
+  </tr>
+
+
+
+
+
+  <tr>
+    <td>Blockchain technology</td>
+    <td><b>Google</b>
+      <br>
+        Keywords used: What is Blockchain technology
+        <br>
+        <a href="https://www.cbinsights.com/research/what-is-blockchain-technology/">https://www.cbinsights.com/research/what-is-blockchain-technology/</a>
+        <br>
+        <br>
+        <q>What Is Blockchain Technology?</q> CB <i>Insights Research</i>, 19 Dec. 2017,
+        <br>
+        <a href="www.cbinsights.com/research/what-is-blockchain-technology/">www.cbinsights.com/research/what-is-blockchain-technology/.</a>
+        <br>
+        <br>
+
+    <b> Bing</b>
+    <br>
+    <br>
+        Keywords used: What is Blockchain Technology
+        <br>
+        <a href="http://www.businessinsider.com/blockchain-technology-cryptocurrency-explained-2017-8">http://www.businessinsider.com/blockchain-technology-cryptocurrency-explained-2017-8</a>
+<br>
+<br>
+        Meola, Andrew. <q>Understanding blockchain technology, bitcoins and the rise of cryptocurrency.</q> <i>Business Insider</i>, Business Insider, 25 Aug. 2017, www.businessinsider.com/blockchain-technology-cryptocurrency-explained-2017-8.</td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+
+</body>
+</html>
